@@ -1,4 +1,4 @@
-# WiPi-Project
+# WiPi-Project V1
 WiFi Password Cracker designed for most kinds raspberry pi
 
 # About
