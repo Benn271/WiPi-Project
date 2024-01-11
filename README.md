@@ -9,10 +9,11 @@ I will need help to finish this project in a reasonable time. If you know bash p
 If you know me IRL then just text me
 
 # Features
-* Not Completed
+* Automate common commands to install and crack wifi passwords. (Alpha testing)
 * Does Not Work Now
   ## Future Versions
-  * It will work soon
+  * GUI
+  * Handle errors and uncommon commands
 
 # Install
 Linux
