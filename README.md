@@ -30,4 +30,4 @@ Linux
 This tool may produce incorrect results if user input is all correct. I am also not responsible for any trouble this tool caused. THIS IS ONLY A TOOL FOR EDUCATION
 
 # Support
-[Buy me a Coffee](https://buymeacoffee.com/fuelmywork)https://buymeacoffee.com/fuelmywork
+[Buy me a Coffee](https://buymeacoffee.com/fuelmywork)
