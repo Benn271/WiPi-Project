@@ -6,7 +6,7 @@ This is a light weight WiFi password cracker written in bash for most raspberry 
 
 # Features
 * Automate common commands to install and crack wifi passwords. (Alpha testing)
-* Does Not Work Now
+* Works with limitations
   ## Future Versions
   * GUI
   * Handle errors and uncommon commands
